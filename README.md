@@ -1,7 +1,7 @@
 <!-- p = wrap text -->
 
 <p align="center">
- <img src="https://drive.google.com/file/d/1CxyxiYaZIwAEaY1wkI97xdNq4xuw1SkD/view?usp=drive_link" width="2000"/>
+ <img src="images/Untitled394_20261117200051.png" width="2000"/>
 </p>
 <h2 align="center">ju.ewie_aboutme</h2>
 ִֶָ🪽་༘ — JU.ewie's abouts of ITE104
