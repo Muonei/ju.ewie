@@ -1,16 +1,17 @@
-<!-- p = wrap text -->
 
+<!-- p = wrap text -->
 <p align="center">
  <img src="images/Untitled394_20261117200051.png" width="2000"/>
 </p>
+
+<!-- h2 = heading2 -->
 <h2 align="center">───────────────── ⊹ ࣪ ──── °‧ 𓆝 𓆟 𓆞 ·｡ ──── ⊹ ࣪ ˖ ─────────────────</h2>
-ִֶָ🪽་༘ — JU.ewie's abouts of ITE104
 
 <!-- about me -->
 <table>
   <tr>
-    <td width="30%" align="center">
-      <img src="YOUR-IMAGE-URL-HERE.png" width="200" />
+    <td width="15%" align="left">
+      <img src="images/download (8).jpg" width="175" />
     </td>
     <td width="70%" valign="top">
       <h3>Your Title Here</h3>
