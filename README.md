@@ -3,7 +3,7 @@
 <p align="center">
  <img src="images/Untitled394_20261117200051.png" width="2000"/>
 </p>
-<h2 align="center">─────────────────── ⊹ ࣪ ──── °‧ 𓆝 𓆟 𓆞 ·｡ ──── ⊹ ࣪ ˖ ───────────────────</h2>
+<h2 align="center">───────────────── ⊹ ࣪ ──── °‧ 𓆝 𓆟 𓆞 ·｡ ──── ⊹ ࣪ ˖ ─────────────────</h2>
 ִֶָ🪽་༘ — JU.ewie's abouts of ITE104
 
 <!-- about me -->
