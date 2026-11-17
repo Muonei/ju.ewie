@@ -9,7 +9,8 @@
 <h2 align="center">───────────────── ⊹ ࣪ ──── °‧ 𓆝 𓆟 𓆞 ·｡ ──── ⊹ ࣪ ˖ ─────────────────</h2>
 
 <!-- about me -->
-<!-- table = table grid, tr = table row, td = table data, image src ="..." putting image, width = "% or no. is width of image, h3 = header3, align = horizontal align, valign = vertical align, ul = unordered list, li = list item
+<!-- table = table grid, tr = table row, td = table data, image src ="..." putting image, width = "% or no. is width of image, 
+h3 = header3, align = horizontal align, valign = vertical align, ul = unordered list, li = list item
 -->
 <table>
   <tr>
