@@ -8,13 +8,14 @@
 <h2 align="center">───────────────── ⊹ ࣪ ──── °‧ 𓆝 𓆟 𓆞 ·｡ ──── ⊹ ࣪ ˖ ─────────────────</h2>
 
 <!-- about me -->
+<!-- table = table grid, tr = table row, td = table data,  -->
 <table>
   <tr>
     <td width="15%" align="left">
       <img src="images/download (8).jpg" width="175" />
     </td>
     <td width="70%" valign="top">
-      <h3>Your Title Here</h3>
+      <h3>₊˚⊹🪼 About Me</h3>
       <p>This is where your text goes. You can write paragraphs, bullet points, or any other description you want to show next to your image.</p>
       <ul>
         <li>First point</li>
@@ -23,7 +24,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
- <img src="https://i.pinimg.com/736x/be/4c/a8/be4ca8e9704ec91947f10c933a236209.jpg" width="2000"/>
-</p>
