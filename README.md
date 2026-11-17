@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td width="15%" align="left">
-      <img src="images/download (8).jpg" width="175" />
+      <img src="images/867290613_2469824636760501_4266245864873083234_n.jpg" width="175" />
     </td>
     <td width="70%" valign="top">
       <h3>₊˚⊹🪼 About Me</h3>
