@@ -8,7 +8,8 @@
 <h2 align="center">───────────────── ⊹ ࣪ ──── °‧ 𓆝 𓆟 𓆞 ·｡ ──── ⊹ ࣪ ˖ ─────────────────</h2>
 
 <!-- about me -->
-<!-- table = table grid, tr = table row, td = table data,  -->
+<!-- table = table grid, tr = table row, td = table data, image src ="..." putting image, width = "% or no. is width of image, h3 = header3, 
+-->
 <table>
   <tr>
     <td width="15%" align="left">
