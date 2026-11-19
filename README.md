@@ -17,7 +17,7 @@
     </td>
     <td width="80%" valign="top">
       <h3>₊˚⊹🪼 About Me</h3>
-      <p>Helloo! I'm Julian Crelle M. Aguilar, a student of the class ITE104 from the program of BSIT. I'm a person who personally likes listening to music, playing online games, and watching movies.</p>
+      <p>Helloo! I'm Julian Crelle M. Aguilar, a student of the class ITE104 from the program of BSIT. I'm a person who personally likes listening to music, playing online games, and watching movies. </p>
       <ul>
         <li>First point</li>
         <li>Second point</li>
