@@ -47,3 +47,36 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="images/Untitled394_20261119214836.png" width="2000"/>
+</p>
+
+<!-- h2 = heading2 -->
+<h2 align="center">─────────────── ⊹ ࣪ ──── 🌊｡𖦹°.🐚⋆°🫧 ──── ⊹ ࣪ ˖ ───────────────</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br /><br />
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=999999&color=5B9BD5&center=true&vCenter=true&repeat=false&width=500&lines=%E2%82%8A%CB%9A%E2%8A%B9%F0%9F%93%81+Midterms" alt="Midterms" />
+      </a>
+      <p align="center">
+        <a href="MIDTERM_FILE_1_LINK"> • Lab Task 1 - Using 2 Dimensional Array</a><br />
+        <a href="MIDTERM_FILE_2_LINK"> • Lab Task 2 - Using 3 Dimensional Array</a><br />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br /><br />
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=999999&color=5B9BD5&center=true&vCenter=true&repeat=false&width=500&lines=Finals+%F0%9F%93%81%E2%8A%B9%CB%9A%E2%82%8A" alt="Finals" />
+      </a>
+      <p align="center">
+        <a href="FINAL_FILE_1_LINK"> • Placeholder for Finals Lab Task </a><br />
+        <a href="FINAL_FILE_2_LINK"> • Placeholder for Finals Lab Task</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
