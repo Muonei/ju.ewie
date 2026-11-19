@@ -26,21 +26,24 @@
 <!-- creative skills -->
 <table width="100%">
   <tr>
-    <td width="80%" valign="top">
-      <div align="left">
+    <td width="20%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/736x/6a/dd/58/6add58d0e9b2ac61430678a10759eace.jpg" width="100" />
+    </td>
+    <td width="60%" align="center" valign="top">
+      <div align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=999999&color=5B9BD5&center=false&vCenter=true&repeat=false&width=500&lines=%E2%82%8A%CB%9A%E2%8A%B9%F0%9F%8E%AC+Creative+Skills" alt="Creative Skills" />
+          <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=999999&color=5B9BD5&center=true&vCenter=true&repeat=false&width=350&lines=%E2%82%8A%CB%9A%E2%8A%B9%F0%9F%8E%AC+Creative+Skills+%E2%8A%B9%CB%9A%E2%82%8A" alt="Creative Skills" />
         </a>
       </div>
-      <ul align="left">
-        <li><b>Pubmat Editing & Design</b></li>
-        <li><b>Filming & Videography</b></li>
-        <li><b>Film & Video Editing</b></li>
-      </ul>
-      <img width="850" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" />
+      <p align="center">
+        <b>Pubmat Editing & Design</b><br />
+        <b>Filming & Videography</b><br />
+        <b>Film & Video Editing</b>
+      </p>
+      <img width="750" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" />
     </td>
     <td width="20%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/736x/a7/67/3e/a7673eb6e998fb3ff61a3786eec6801a.jpg" width="140" />
+      <img src="https://i.pinimg.com/736x/a7/67/3e/a7673eb6e998fb3ff61a3786eec6801a.jpg" width="100" />
     </td>
   </tr>
 </table>
