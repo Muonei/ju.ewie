@@ -63,8 +63,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=22&pause=999999&color=5B9BD5&center=true&vCenter=true&repeat=false&width=500&lines=%E2%82%8A%CB%9A%E2%8A%B9%F0%9F%93%81+Midterms" alt="Midterms" />
       </a>
       <p align="center">
-        <a href="MIDTERM_FILE_1_LINK"> • Lab Task 1 - Using 2 Dimensional Array</a><br />
-        <a href="MIDTERM_FILE_2_LINK"> • Lab Task 2 - Using 3 Dimensional Array</a><br />
+        <a href="MIDTERMS LAB TASK/Aguilar - Term 2 - Midterms Lab Task 1.pdf"> • Lab Task 1 - Using 2 Dimensional Array</a><br />
+        <a href="MIDTERMS LAB TASK/Aguilar - Term 2 - Midterms Lab Task 2.pdf"> • Lab Task 2 - Using 3 Dimensional Array</a><br />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
