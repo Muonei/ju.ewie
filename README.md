@@ -12,7 +12,7 @@
 <!-- table = table grid, tr = table row, td = table data, image src ="..." putting image, width = "% or no. is width of image, h3 = header3, align = horizontal align, valign = vertical align, ul = unordered list, li = list item -->
 <table>
   <tr>
-    <td width="24%" align="left">
+    <td width="20%" align="left">
       <img src="https://github.com/Muonei/ju.ewie_aboutme/blob/68fc80c34bbc10890ecec249e1d433b321e58802/images/IMG_1011.jpeg" width="175" />
     </td>
     <td width="80%" valign="top">
