@@ -80,3 +80,38 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="images/Untitled394_20261119215301.png" width="2000"/>
+</p>
+
+<!-- h2 = heading2 -->
+<h2 align="center">─────────────── ⊹ ࣪ ──── °:•.🐠*.•🪸.•:° ──── ⊹ ࣪ ˖ ───────────────</h2>
+
+<!-- socials -->
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=999999&color=5B9BD5&center=true&vCenter=true&repeat=false&width=350&lines=%E2%8A%B9%CB%9A%E2%82%8A%F0%9F%8C%90+Socials+%F0%9F%8C%90%E2%8A%B9%CB%9A%E2%82%8A" alt="Socials" />
+      </a>
+      <p align="center">
+        <a href="@muonei">
+          <img src="https://img.shields.io/badge/TikTok-5B9BD5?style=for-the-badge&logo=tiktok&logoColor=white" height="32" />
+        </a>
+       &nbsp;&nbsp;
+        <a href="Julian Crelle M. Aguilar">
+          <img src="https://img.shields.io/badge/Facebook-5B9BD5?style=for-the-badge&logo=facebook&logoColor=white" height="32" />
+        </a>
+      &nbsp;&nbsp;
+        <a href="[@muoneiii](https://www.instagram.com/muoneiii/)">
+          <img src="https://img.shields.io/badge/Instagram-5B9BD5?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
+        </a>
+       &nbsp;&nbsp;
+        <a href="Kuxaqii">
+          <img src="https://img.shields.io/badge/Roblox-5B9BD5?style=for-the-badge&logo=roblox&logoColor=white" height="32" />
+        </a>
+      </p>
+      <img width="1000" height="1" src="https://placehold.co/880x1/transparent/transparent.png" />
+    </td>
+  </tr>
+</table>
