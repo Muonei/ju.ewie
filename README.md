@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="20%" align="left">
-      <img src="https://github.com/Muonei/ju.ewie_aboutme/blob/68fc80c34bbc10890ecec249e1d433b321e58802/images/IMG_1011.jpeg" width="175" />
+      <img src="images/IMG_1011.jpeg" width="175" />
     </td>
     <td width="80%" align="left">
     <div align="left">
