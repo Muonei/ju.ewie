@@ -44,22 +44,5 @@
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=1&pause=999999&color=5B9BD5&vCenter=true&width=260&height=40&lines=CREATIVE+SKILLS" alt="CREATIVE SKILLS" />
-      </p>
-      <ul align="left">
-        <li><b>Pubmat Editing & Design                                                   </li>
-        <li><b>Filming & Videography                                                     </b></li>
-        <li><b>Film & Video Editing                                                      </b></li>
-      </ul>
-        <img width="857" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" />
-    </td>
-   <td width="40%" align="center" valign="middle">
-    <img src="https://i.pinimg.com/736x/a7/67/3e/a7673eb6e998fb3ff61a3786eec6801a.jpg" width=100 />
-  </tr>
-</table>
 
 
